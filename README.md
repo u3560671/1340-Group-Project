@@ -1,5 +1,5 @@
-### 1340-Group-Project
+## 1340-Group-Project
 
-# Problem Statement
+### Problem Statement
 
-# Problem Setting
+### Problem Setting
